@@ -10,7 +10,7 @@ author_profile: true
 
 ### Determine Data
 
-![g](/Screen Shot 2020-04-20 at 2.27.08 PM.png)
+![g](/images/Screen Shot 2020-04-20 at 2.27.08 PM.png)
 
 ### Pre-process text
 
