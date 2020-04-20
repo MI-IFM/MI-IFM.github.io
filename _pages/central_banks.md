@@ -9,7 +9,7 @@ author_profile: true
 ![Q12020](/images/Screen Shot 2020-04-03 at 8.29.14 PM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         | ------------------------------------------------------------ |
 | 1    |  0.021'* "community_bank" + 0.012*"third_party" + 0.008*"india" + 0.007*"federal" + 0.006*"federal_reserve" |
 | 2    |  0.019*"canada" + 0.017*"cbdc" + 0.017*"canadian" + 0.014*"bank_canada" + 0.009*"digital_currency"|
 
@@ -18,7 +18,7 @@ author_profile: true
 ![Q42019](/images/Screen Shot 2020-04-06 at 4.27.38 PM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.010*"takaful" + 0.006*"payment_system" + 0.005*"mauritius" + 0.005*"barclays" + 0.005*"norge_bank" |
 | 2    |  0.006*"climate" + 0.005*"israel" + 0.004*"firm" + 0.004*"reserve" + 0.004*"standard"|
 
@@ -27,7 +27,7 @@ author_profile: true
 ![Q32019](/images/Screen Shot 2020-04-06 at 4.58.39 PM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |   0.013*"singapore" + 0.013*"private" + 0.012*"asia" + 0.010*"company" + 0.010*"investing"  |
 | 2    |  0.016*"cent" + 0.010*"india" + 0.009*"export" + 0.007*"external" + 0.006*"flow" |
 | 3    | 0.013*"think" + 0.006*"uncertainty" + 0.005*"euro" + 0.005*"euro_area" + 0.004*"fiscal" 
@@ -38,7 +38,7 @@ author_profile: true
 
 
 | Topic Number            |   Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |------------------------------------------------------------ |
 | 1    |   0.006*"data" + 0.005*"cent" + 0.004*"finance" + 0.004*"italy" + 0.004*"cyber"  |
 | 2    |   0.022*"china" + 0.010*"shanghai" + 0.007*"chinese" + 0.006*"trade" + 0.006*"enterprise" |
 
@@ -47,7 +47,7 @@ author_profile: true
 ![Q12019](/images/Screen Shot 2020-04-06 at 6.49.21 PM.png)
 
 | Topic Number            |   Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.026*"star" + 0.017*"rate" + 0.014*"percent" + 0.011*"interest_rate" + 0.010*"productivity"   |
 | 2    |  0.011*"economic" + 0.011*"monetary" + 0.010*"rate" + 0.009*"labour" + 0.009*"euro"  |
 | 3 |   0.000*"claessens" + 0.000*"cryptography" + 0.000*"claim" + 0.000*"closely" + 0.000*"combination"
@@ -67,7 +67,7 @@ author_profile: true
 ![Q42018](/images/Screen Shot 2020-04-07 at 8.25.56 AM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         | ------------------------------------------------------------ |
 | 1    |  0.008*"cost" + 0.008*"electronic" + 0.005*"supervisor" + 0.005*"card" + 0.005*"payment_system"   |
 | 2    |  0.006*"monetary_policy" + 0.005*"crypto" + 0.005*"crypto_asset" + 0.005*"central_bank" + 0.004*"community" |
 
@@ -76,7 +76,7 @@ author_profile: true
 ![Q32018](/images/Screen Shot 2020-04-07 at 8.55.26 AM.png)
 
 | Topic Number            |  Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |   0.010*"plan" + 0.009*"dfis" + 0.006*"strategic" + 0.005*"inclusion" + 0.005*"singapore" |
 | 2    | 0.004*"forward" + 0.004*"european" + 0.004*"central_bank" + 0.004*"financial_market" + 0.004*"euro" |
 
@@ -86,7 +86,7 @@ author_profile: true
 ![Q22018](/images/Screen Shot 2020-04-07 at 9.49.39 AM.png)
 
 | Topic Number            |  Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.000*"cent" + 0.000*"australia" + 0.000*"ireland" + 0.000*"inflation" + 0.000*"domestic"|
 | 2    |  0.018*"union" + 0.015*"integration" + 0.010*"single" + 0.009*"financial_integration" + 0.009*"europe"  |
 | 3 | 0.037*"agent" + 0.027*"takaful" + 0.019*"customer" + 0.017*"insurance" + 0.008*"life" 
@@ -105,7 +105,7 @@ author_profile: true
 ![Q12018](/images/Screen Shot 2020-04-07 at 10.41.40 AM.png)
 
 | Topic Number            |   Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.018*"money" + 0.010*"bitcoin" + 0.007*"euro" + 0.006*"investor" + 0.006*"settlement" |
 | 2    | 0.029*"payment_system" + 0.019*"digital_currency" + 0.009*"federal_reserve" + 0.008*"transfer" + 0.007*"money"  |
 | 3 |  0.000*"canada" + 0.000*"money" + 0.000*"euro" + 0.000*"bond" + 0.000*"labour"
@@ -124,7 +124,7 @@ author_profile: true
 ![Q42017](/images/Screen Shot 2020-04-07 at 10.55.15 AM.png)
 
 | Topic Number            |   Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.007*"adviser" + 0.005*"financial_adviser" + 0.004*"percent" + 0.003*"rate" + 0.003*"inflation" |
 | 2    |  0.007*"kong" + 0.007*"hong_kong" + 0.007*"hong" + 0.004*"card" + 0.003*"aggregator"  |
 
@@ -142,7 +142,7 @@ author_profile: true
 ![Q22017](/images/Screen Shot 2020-04-08 at 1.30.34 PM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |   0.016*"microfinance" + 0.008*"malaysia" + 0.008*"micro" + 0.006*"borrower" + 0.005*"opportunity"  |
 | 2    |  0.020*"carbon" + 0.019*"climate" + 0.019*"canada" + 0.012*"climate_change" + 0.008*"green"  |
 | 3 |  0.017*"customer" + 0.014*"canada" + 0.012*"mexico" + 0.008*"bcsbi" + 0.008*"code" |
@@ -153,7 +153,7 @@ author_profile: true
 ![Q12017](/images/Screen Shot 2020-04-08 at 3.13.46 PM.png)
 
 | Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
+| --------         |  ------------------------------------------------------------ |
 | 1    |  0.015*"fintechs" + 0.007*"supervisor" + 0.007*"digitalisation" + 0.006*"digital" + 0.006*"scenario"|
 | 2    |  0.011*"stressed" + 0.011*"plan" + 0.010*"restructuring" + 0.010*"private" + 0.010*"stressed_asset" |
 | 3 |0.000*"marketplace" + 0.000*"multiple" + 0.000*"nearly" + 0.000*"mortar" + 0.000*"msme_financing" 
