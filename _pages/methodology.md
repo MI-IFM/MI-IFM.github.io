@@ -4,8 +4,9 @@ title: "Methodology"
 permalink: /methodology/
 author_profile: true
 ---
+### Project flow 
 
-![method](/images/Screen Shot 2020-04-20 at 1.48.50 PM.png)
+![method](/images/Screen Shot 2020-04-20 at 2.11.07 PM.png)
 
 
 ### Determining K 
