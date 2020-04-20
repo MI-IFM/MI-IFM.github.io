@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News Articles"
+title: "Reuters U.S. Tech News Headlines"
 permalink: /news/
 author_profile: true
 ---
