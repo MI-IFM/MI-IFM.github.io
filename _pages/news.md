@@ -195,36 +195,16 @@ author_profile: true
 ### Jun 2019
 ![Q12018](/images/Screen Shot 2020-04-20 at 12.25.47 PM.png)
 
-| Topic Number            |   Top-5 Words                                                           |
-| --------         |  ------------------------------------------------------------ |
-| 1    |  0.018*"money" + 0.010*"bitcoin" + 0.007*"euro" + 0.006*"investor" + 0.006*"settlement" |
-| 2    | 0.029*"payment_system" + 0.019*"digital_currency" + 0.009*"federal_reserve" + 0.008*"transfer" + 0.007*"money"  |
-| 3 |  0.000*"canada" + 0.000*"money" + 0.000*"euro" + 0.000*"bond" + 0.000*"labour"
-| 4 |  0.013*"europe" + 0.010*"euro" + 0.010*"euro_area" + 0.006*"china" + 0.006*"fiscal" 
-| 5 |  0.009*"bond" + 0.006*"euro" + 0.006*"yield" + 0.005*"purchase" + 0.005*"greece" 
-| 6 |  0.007*"management" + 0.007*"reform" + 0.006*"learning" + 0.006*"trading" + 0.006*"machine"
-| 7 |  0.000*"money" + 0.000*"bitcoin" + 0.000*"cryptocurrencies" + 0.000*"cryptocurrency" + 0.000*"issued"
-| 8 |  0.012*"cryptocurrencies" + 0.009*"issued" + 0.008*"cryptocurrency" + 0.008*"philippine" + 0.007*"percent" 
-| 9 | 0.000*"payment_system" + 0.000*"digital_currency" + 0.000*"transfer" + 0.000*"federal_reserve" + 0.000*"money"
-| 10 |  0.013*"canada" + 0.006*"labour" + 0.006*"income" + 0.005*"question" + 0.005*"force"
-| 11 |  0.024*"islamic" + 0.020*"islamic_finance" + 0.009*"federal_reserve" + 0.008*"worker" + 0.007*"young" 
 
 
 
 ### May 2019
 ![Q42017](/images/Screen Shot 2020-04-20 at 12.42.15 PM.png)
 
-| Topic Number            |   Top-5 Words                                                           |
-| --------         |  ------------------------------------------------------------ |
-| 1    |  0.007*"adviser" + 0.005*"financial_adviser" + 0.004*"percent" + 0.003*"rate" + 0.003*"inflation" |
-| 2    |  0.007*"kong" + 0.007*"hong_kong" + 0.007*"hong" + 0.004*"card" + 0.003*"aggregator"  |
 
 
 ### Apr 2019
 ![Q32017](/images/Screen Shot 2020-04-20 at 12.43.07 PM.png)
 
-| Topic Number            |    Top-5 Words                                                           |
-| --------         | ------ | ------------------------------------------------------------ |
-| 1    |   0.010*"percent" + 0.005*"canada" + 0.004*"export" + 0.004*"labor" + 0.004*"workforce" |
-| 2    | 0.010*"captive" + 0.005*"interest_rate" + 0.005*"globalisation" + 0.004*"asia" + 0.004*"labour"   |
+
 
