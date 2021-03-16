@@ -10,4 +10,4 @@ redirect_from:
 
 ### Welcome to MI-IFM's Big Tech Project. 
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&initial_zoom=1&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VILrv712jmHpwZ5K_T0dDxYw-fzYb023bBTdxqUGo80&font=Default&lang=en&initial_zoom=1&height=650' width='1200' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
